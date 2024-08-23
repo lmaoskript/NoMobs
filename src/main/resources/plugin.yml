@@ -1,0 +1,11 @@
+name: NoMobs
+version: '1.0.0'
+main: sk.addon.noMobs.NoMobs
+api-version: '1.19'
+authors: [ skAddon ]
+description: Customize mob spawning
+website: https://paypal.me/skaddon
+commands:
+  nomobs:
+    description: NoMobs command
+    usage: /nomobs reload
